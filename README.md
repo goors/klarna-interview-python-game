@@ -1,4 +1,5 @@
-#Your assignment is to write a small text adventure game.
+
+# Your assignment is to write a small text adventure game.
 
 * The game world consists of 5 rooms with the following paths between them:
 E
