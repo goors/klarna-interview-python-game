@@ -14,6 +14,7 @@ E
 * The game ends when the player manages to reach room E
 
 Implementation pointers:
+
 * Don’t use any non­standard libraries
 * Express your coding style in the design of the implementation
 * Make your implementation elegant; as simple as possible, but not trival
