@@ -1,0 +1,8 @@
+
+In order to run game just type:
+
+	python game.py
+
+and follow on screen instructions.
+
+Game is build for python: 2.7 
